@@ -67,8 +67,3 @@ const getFunds = (kucoinConfig) => {
     });
 };
 
-
-getFunds({
-  apiKey: '5a6ed4d22933c1196145e2e5',
-  secret: 'b856c734-82ea-47f2-8982-9efe7eb2c7c9'
-});
